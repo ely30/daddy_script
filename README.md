@@ -16,7 +16,7 @@ THIS IS A SCRIPT FOR AUTO INSTALLATION OF UDP (HYSTERIA SERVER)
 
 // Download the script
 ```
-https://raw.githubusercontent.com/ely30/daddyjos/main/install_mikudp.sh
+[https://raw.githubusercontent.com/ely30/daddyjos/main/install_mikudp.sh](https://raw.githubusercontent.com/ely30/daddy_script/main/install_mikudp.sh)
 ```
 // Edit script configuration 
 ```
